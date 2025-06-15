@@ -12,7 +12,7 @@ This is a Flask-based RESTful API developed as part of the Software Engineering 
 - Flask-Migrate  
 - SQLite3 (for development)
 
----
+
 
 ## Project Structure
 
@@ -30,14 +30,20 @@ superheroes-api/
 ##  Setup Instructions
 - Clone the repo
 
-``bash
+~~~bash
 git clone git@github.com:Dean14692-prog/Phase4-Week1-Code-Challenge.git
 cd superheroes-api
-```
-- Create a virtual environment
-``` bash
+
+~~~
+
+- Create Virtual Environment
+```bash
 pipenv install && pipenv shell
 ```
+
+
+
+
 - Set up the database
 ``` bash
 flask db init
