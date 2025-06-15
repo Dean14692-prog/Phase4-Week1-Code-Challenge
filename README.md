@@ -87,4 +87,7 @@ How to Import:
 
 - Email: dennis.ngui@moringaschool.com
 
-- GitHub: @Dean14692-prog
+- GitHub:  
+~~~bash
+@Dean14692-prog
+~~~
