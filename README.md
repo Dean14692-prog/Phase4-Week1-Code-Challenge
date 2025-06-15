@@ -5,7 +5,7 @@
 This is a Flask-based RESTful API developed as part of the Software Engineering curriculum at Moringa School. It manages **Superheroes**, their **Powers**, and the relationships between them. The API supports full CRUD functionality and follows proper REST conventions.
 
 
-## Tech Stack
+## Technologies
 - Python 3.x  
 - Flask  
 - Flask-SQLAlchemy  
